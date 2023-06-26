@@ -4,14 +4,20 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Chanhyeok Choi.<br>
-        Currently learning to walk in ML/DL without falling on my bottom.<br>
+        Currently learning to walk in CV/CG & NLP & ML/DL without falling on my bottom.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/%EC%B0%AC%ED%98%81-%EC%B5%9C-3463b0277/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="mailto:chan4184@gmail.com">
-        <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
+        <img src="https://img.shields.io/badge/Email-green?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
+    </a>
+    <a href="https://resume.io/r/YxTSO9Oah">
+        <img src="https://img.shields.io/badge/CV-skyblue?style=flat-square&logo=readdotcv&logoColor=white", alt="CV">
+    </a>
+    <a href="https://www.instagram.com/cold__hyuk/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hongssup"/>
+    </a>
 </p>
 
 ### Languages
