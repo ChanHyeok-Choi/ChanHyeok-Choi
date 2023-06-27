@@ -34,7 +34,7 @@
 
 ### Technologies & Frameworks
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/ChanHyeok-Choi)
-[![Spring Boot]((https://img.shields.io/badge/docker-black?style=for-the-badge&logo=spring)](https://github.com/ChanHyeok-Choi)
+[![Spring Boot](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring)](https://github.com/ChanHyeok-Choi)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/ChanHyeok-Choi)
