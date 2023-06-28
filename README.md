@@ -7,7 +7,7 @@
         Currently learning to walk in CV/CG & NLP & ML/DL without falling on my bottom.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/%EC%B0%AC%ED%98%81-%EC%B5%9C-3463b0277/">
+    <a href="https://www.linkedin.com/in/chanhyeok-choi/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="mailto:chan4184@gmail.com">
