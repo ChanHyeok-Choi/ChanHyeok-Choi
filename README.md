@@ -2,6 +2,7 @@
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
+    <img src="./me.jpg"><br>
     <i>
         I'm Chanhyeok Choi(Cold hyuk).<br>
         Currently learning to walk in CV/CG & NLP & ML/DL without falling on my bottom.<br>
