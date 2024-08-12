@@ -14,7 +14,7 @@
     <a href="mailto:chan4184@gmail.com">
         <img src="https://img.shields.io/badge/Email-green?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
     </a>
-    <a href="https://resume.io/r/YxTSO9Oah">
+    <a href="https://chanhyeok-choi.github.io/assets/pdf/CV.pdf">
         <img src="https://img.shields.io/badge/CV-skyblue?style=flat-square&logo=readdotcv&logoColor=white", alt="CV">
     </a>
     <a href="https://www.instagram.com/cold__hyuk/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hongssup"/>
