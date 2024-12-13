@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <img src="./me.jpg"><br>
     <i>
-        I'm Chanhyeok Choi(Cold hyuk).<br>
+        I'm Chanhyuk Choi.<br>
         Currently learning to walk in CV/CG & NLP & ML/DL without falling on my bottom.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
